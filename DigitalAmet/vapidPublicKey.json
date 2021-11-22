@@ -1,0 +1,5 @@
+{
+    "aud": "https://YourSiteHere.example",
+    "sub": "mailto://admin@YourSiteHere.example",
+    "exp": 1457718878
+}
